@@ -1,0 +1,16 @@
+package seccion3string;
+
+public class C05StringValidar {
+
+	public static void main(String[] args) {
+		
+		String curso = null;
+		
+		boolean esNulo = curso == null;
+		
+		System.out.println(esNulo);
+		
+		
+	}
+}
+
