@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;C04StringTestRendimiento.java&apos; to &apos;HolaMundo/src/seccion3string&apos;&#x0A;- Original project: &apos;HolaMundo&apos;&#x0A;- Destination element: &apos;HolaMundo/src/seccion3string&apos;&#x0A;- Original element: &apos;seccion3string.C04StringTestRendimiento.java&apos;" description="Copy compilation unit" destination="/src&lt;seccion3string" element1="/src&lt;seccion3string{C04StringTestRendimiento.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1696612786658" units="1" version="1.0"/>
-</session>
